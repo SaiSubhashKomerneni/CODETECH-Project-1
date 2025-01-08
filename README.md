@@ -35,6 +35,6 @@ Materials and methods:
 - How many days was the Close lower than 60 dollars
 - What is the Pearson correlation between High and Volume?
 - What is the max High per year?
-- 
+
 USED LIBRARIES:
 Pyspark
